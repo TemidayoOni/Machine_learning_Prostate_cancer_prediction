@@ -3,4 +3,7 @@ numpy
 matplotlib
 scikit-learn
 seaborn
+plotly
+notebook
+xgboost
 -e .
